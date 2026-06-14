@@ -116,7 +116,7 @@ export default function Login() {
               <FiBook className="w-5 h-5 text-white" />
             </div>
             <div>
-              <h1 className="text-lg font-semibold text-white">COMSATS LMS</h1>
+              <h1 className="text-lg font-semibold text-white">Eduverse</h1>
               <p className="text-slate-500 text-xs">Learning Management System</p>
             </div>
           </div>
@@ -194,7 +194,7 @@ export default function Login() {
 
           {/* Footer for Mobile */}
           <p className="lg:hidden text-center text-slate-700 text-xs mt-6">
-            © 2025 COMSATS University Islamabad
+            © 2025 Chandigarh University Punjab
           </p>
         </div>
       </div>
